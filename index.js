@@ -9,3 +9,7 @@ function sayHey() {
 function sayHeyFriend(friend) {
   return `Hey, ${friend.name}!`
 }
+
+function favoriteIceCream() {
+  return `${NAME_OF_ICECREAM}`
+}
