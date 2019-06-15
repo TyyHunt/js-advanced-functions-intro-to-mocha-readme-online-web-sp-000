@@ -11,7 +11,7 @@ function sayHeyFriend(friend) {
 }
 
 function favoriteIceCream(NAME_OF_ICECREAM) {
-  
+
   return `I love ${NAME_OF_ICECREAM}`
 }
 
@@ -22,5 +22,3 @@ function shouting(string) {
 function roundDown(num) {
   return num.floor
 }
-
-
