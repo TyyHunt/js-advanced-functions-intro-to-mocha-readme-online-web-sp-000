@@ -11,6 +11,6 @@ function sayHeyFriend(friend) {
 }
 
 function favoriteIceCream() {
-  let NAME_OF_ICECREAM = 'Rocky Road'
-  return `${NAME_OF_ICECREAM}`
+  let NAME_OF_ICECREAM;
+  return `I love ${NAME_OF_ICECREAM}`
 }
